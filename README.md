@@ -2,6 +2,11 @@
 
 # semantiquary [work in progress]
 
+* [Aims](https://github.com/ana-tam/semantiquary/#aims)
+* [Background](https://github.com/ana-tam/semantiquary#background)
+* [Related Work](https://github.com/ana-tam/semantiquary#related-work)
+* [PoC Roadmap](https://github.com/ana-tam/semantiquary#poc-roadmap)
+
 ## Aims
 
 Semantiquary leverages the [Solid](https://solidproject.org/) ([protocol](https://solidproject.org/TR/protocol)) and [Linked Data Event Streams](https://interoperable-europe.ec.europa.eu/collection/semic-support-centre/linked-data-event-streams-ldes) ([spec](https://semiceu.github.io/LinkedDataEventStreams/releases/1.0.0/index.html)) to delivery a decoupled cultural heritage-specific semantic layer comprising the [CIDOC CRM](https://cidoc-crm.org/) ontology and the [Getty Arts & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/) to improve federated querying. 
@@ -23,5 +28,9 @@ Other projects that tackle the cross-repository search and discovery challenge i
 Semantiquary presents an alternative approach that avoids limited semantic implementations (Linked Art), the data syncing issues of an aggregator model (ARIADNE) and reduces the need for supercomputing infrastructure (RICHeS).  
 
 Semantiquary does not seek to compete with existing efforts.  Instead, working towards a proof-of-concept, it will offer an alternative avenue to address technical bottlenecks that work in tandem to further cultural heritage research and conservation.  
+
+## Proof-of-concept Roadmap
+
+
 
 
